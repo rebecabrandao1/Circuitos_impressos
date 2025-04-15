@@ -1,0 +1,81 @@
+Informação: Processando o símbolo 'C1:Capacitor_SMD:C_0201_0603Metric'.
+Informação: Processando o símbolo 'C2:'.
+Informação: Processando o símbolo 'X2:Crystal:Crystal_SMD_ECS_CSM3X-2Pin_7.6x4.1mm'.
+Informação: Processando o símbolo 'C3:Capacitor_SMD:C_0402_1005Metric'.
+Informação: Processando o símbolo 'C4:Capacitor_SMD:C_0201_0603Metric'.
+Informação: Processando o símbolo 'C5:Capacitor_SMD:C_0201_0603Metric'.
+Informação: Processando o símbolo 'C6:Capacitor_SMD:C_0201_0603Metric'.
+Informação: Processando o símbolo 'C7:Capacitor_SMD:C_0201_0603Metric'.
+Informação: Processando o símbolo 'C8:Capacitor_SMD:C_0201_0603Metric'.
+Informação: Processando o símbolo 'C9:Capacitor_SMD:C_0201_0603Metric'.
+Informação: Processando o símbolo 'C10:Capacitor_SMD:C_0201_0603Metric'.
+Informação: Processando o símbolo 'C11:Capacitor_SMD:C_0201_0603Metric'.
+Informação: Processando o símbolo 'C12:Capacitor_SMD:C_0201_0603Metric'.
+Informação: Processando o símbolo 'C13:Capacitor_SMD:C_0201_0603Metric'.
+Informação: Processando o símbolo 'FB1:Ferrite_THT:LairdTech_28C0236-0JW-10'.
+Informação: Processando o símbolo 'L1:Inductor_SMD:L_0603_1608Metric'.
+Informação: Processando o símbolo 'L2:Inductor_SMD:L_0201_0603Metric'.
+Informação: Processando o símbolo 'L3:Inductor_SMD:L_0201_0603Metric'.
+Informação: Processando o símbolo 'L4:Inductor_SMD:L_0201_0603Metric'.
+Informação: Processando o símbolo 'R1:Resistor_SMD:R_0201_0603Metric'.
+Informação: Processando o símbolo 'U2:Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm_ThermalVias'.
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 8 (nenhum pino 8 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 18 (nenhum pino 18 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 2 (nenhum pino 2 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 7 (nenhum pino 7 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 23 (nenhum pino 23 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 3 (nenhum pino 3 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 6 (nenhum pino 6 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 27 (nenhum pino 27 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 16 (nenhum pino 16 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 9 (nenhum pino 9 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 15 (nenhum pino 15 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 11 (nenhum pino 11 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 17 (nenhum pino 17 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 20 (nenhum pino 20 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 13 (nenhum pino 13 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 5 (nenhum pino 5 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 21 (nenhum pino 21 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 12 (nenhum pino 12 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 4 (nenhum pino 4 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 28 (nenhum pino 28 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 19 (nenhum pino 19 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 14 (nenhum pino 14 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 24 (nenhum pino 24 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
+Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 1 (nenhum pino 1 no símbolo).
+Erro: Não é possível adicionar C2 (nenhum footprint associado).
+Erro: U2 ilha 33 não foi encontrada em Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm_ThermalVias.
+Erro: U2 ilha 43 não foi encontrada em Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm_ThermalVias.
+Erro: U2 ilha 44 não foi encontrada em Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm_ThermalVias.
+Erro: U2 ilha 49 não foi encontrada em Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm_ThermalVias.
+Erro: U2 ilha 31 não foi encontrada em Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm_ThermalVias.
+Erro: U2 ilha 46 não foi encontrada em Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm_ThermalVias.
+Erro: U2 ilha 45 não foi encontrada em Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm_ThermalVias.
+Erro: U2 ilha 30 não foi encontrada em Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm_ThermalVias.
+Erro: U2 ilha 32 não foi encontrada em Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm_ThermalVias.
+Erro: U2 ilha 34 não foi encontrada em Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm_ThermalVias.
+Erro: U2 ilha 36 não foi encontrada em Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm_ThermalVias.
+Erro: U2 ilha 47 não foi encontrada em Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm_ThermalVias.
+Erro: U2 ilha 48 não foi encontrada em Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm_ThermalVias.
+Erro: U2 ilha 35 não foi encontrada em Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm_ThermalVias.
+
+
+Informação: Total de avisos: 42, erros: 15.
