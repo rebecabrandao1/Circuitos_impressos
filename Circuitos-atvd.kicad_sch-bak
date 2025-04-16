@@ -3947,7 +3947,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Ferrite_THT:LairdTech_28C0236-0JW-10"
 			(at 92.202 80.01 90)
 			(effects
 				(font
@@ -5528,7 +5528,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:QFN-48-1EP_6x6mm_P0.4mm_EP4.2x4.2mm_ThermalVias"
+		(property "Footprint" "Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm_ThermalVias"
 			(at 152.4 57.15 0)
 			(effects
 				(font

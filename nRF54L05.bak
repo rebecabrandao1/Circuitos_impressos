@@ -64,6 +64,14 @@
 			)
 		)
 		(symbol "nRF54L05_1_1"
+			(text "NRF54L05-QFAA-R7"
+				(at -4.064 -45.466 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
 			(pin free line
 				(at -16.51 6.35 0)
 				(length 2.54)

@@ -1,81 +1,340 @@
 Informação: Processando o símbolo 'C1:Capacitor_SMD:C_0201_0603Metric'.
-Informação: Processando o símbolo 'C2:'.
-Informação: Processando o símbolo 'X2:Crystal:Crystal_SMD_ECS_CSM3X-2Pin_7.6x4.1mm'.
-Informação: Processando o símbolo 'C3:Capacitor_SMD:C_0402_1005Metric'.
-Informação: Processando o símbolo 'C4:Capacitor_SMD:C_0201_0603Metric'.
-Informação: Processando o símbolo 'C5:Capacitor_SMD:C_0201_0603Metric'.
-Informação: Processando o símbolo 'C6:Capacitor_SMD:C_0201_0603Metric'.
-Informação: Processando o símbolo 'C7:Capacitor_SMD:C_0201_0603Metric'.
+Informação: Processando o símbolo 'L1:Inductor_SMD:L_0603_1608Metric'.
+Informação: Processando o símbolo 'C12:Capacitor_SMD:C_0201_0603Metric'.
 Informação: Processando o símbolo 'C8:Capacitor_SMD:C_0201_0603Metric'.
-Informação: Processando o símbolo 'C9:Capacitor_SMD:C_0201_0603Metric'.
+Informação: Processando o símbolo 'FB1:Ferrite_THT:LairdTech_28C0236-0JW-10'.
 Informação: Processando o símbolo 'C10:Capacitor_SMD:C_0201_0603Metric'.
 Informação: Processando o símbolo 'C11:Capacitor_SMD:C_0201_0603Metric'.
-Informação: Processando o símbolo 'C12:Capacitor_SMD:C_0201_0603Metric'.
+Informação: Processando o símbolo 'C5:Capacitor_SMD:C_0201_0603Metric'.
+Informação: Processando o símbolo 'C4:Capacitor_SMD:C_0201_0603Metric'.
+Informação: Processando o símbolo 'C6:Capacitor_SMD:C_0201_0603Metric'.
+Informação: Processando o símbolo 'C3:Capacitor_SMD:C_0402_1005Metric'.
+Informação: Processando o símbolo 'C9:Capacitor_SMD:C_0201_0603Metric'.
 Informação: Processando o símbolo 'C13:Capacitor_SMD:C_0201_0603Metric'.
-Informação: Processando o símbolo 'FB1:Ferrite_THT:LairdTech_28C0236-0JW-10'.
-Informação: Processando o símbolo 'L1:Inductor_SMD:L_0603_1608Metric'.
+Informação: Processando o símbolo 'C2:Capacitor_SMD:C_0201_0603Metric'.
+Informação: Processando o símbolo 'C7:Capacitor_SMD:C_0201_0603Metric'.
 Informação: Processando o símbolo 'L2:Inductor_SMD:L_0201_0603Metric'.
 Informação: Processando o símbolo 'L3:Inductor_SMD:L_0201_0603Metric'.
 Informação: Processando o símbolo 'L4:Inductor_SMD:L_0201_0603Metric'.
 Informação: Processando o símbolo 'R1:Resistor_SMD:R_0201_0603Metric'.
-Informação: Processando o símbolo 'U2:Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm_ThermalVias'.
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 8 (nenhum pino 8 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 18 (nenhum pino 18 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 2 (nenhum pino 2 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 7 (nenhum pino 7 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 23 (nenhum pino 23 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 3 (nenhum pino 3 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 6 (nenhum pino 6 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 27 (nenhum pino 27 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 16 (nenhum pino 16 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 9 (nenhum pino 9 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 15 (nenhum pino 15 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 11 (nenhum pino 11 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 17 (nenhum pino 17 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 20 (nenhum pino 20 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 13 (nenhum pino 13 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 5 (nenhum pino 5 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 21 (nenhum pino 21 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 12 (nenhum pino 12 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 4 (nenhum pino 4 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 28 (nenhum pino 28 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 19 (nenhum pino 19 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 14 (nenhum pino 14 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 24 (nenhum pino 24 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 29 (nenhum pino 29 no símbolo).
-Atenção: Nenhuma rede foi encontrada para o componente U2 ilha 1 (nenhum pino 1 no símbolo).
-Erro: Não é possível adicionar C2 (nenhum footprint associado).
-Erro: U2 ilha 33 não foi encontrada em Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm_ThermalVias.
-Erro: U2 ilha 43 não foi encontrada em Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm_ThermalVias.
-Erro: U2 ilha 44 não foi encontrada em Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm_ThermalVias.
-Erro: U2 ilha 49 não foi encontrada em Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm_ThermalVias.
-Erro: U2 ilha 31 não foi encontrada em Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm_ThermalVias.
-Erro: U2 ilha 46 não foi encontrada em Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm_ThermalVias.
-Erro: U2 ilha 45 não foi encontrada em Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm_ThermalVias.
-Erro: U2 ilha 30 não foi encontrada em Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm_ThermalVias.
-Erro: U2 ilha 32 não foi encontrada em Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm_ThermalVias.
-Erro: U2 ilha 34 não foi encontrada em Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm_ThermalVias.
-Erro: U2 ilha 36 não foi encontrada em Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm_ThermalVias.
-Erro: U2 ilha 47 não foi encontrada em Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm_ThermalVias.
-Erro: U2 ilha 48 não foi encontrada em Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm_ThermalVias.
-Erro: U2 ilha 35 não foi encontrada em Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm_ThermalVias.
+Informação: Processando o símbolo 'U1:Package_DFN_QFN:QFN-48-1EP_6x6mm_P0.4mm_EP4.2x4.2mm_ThermalVias'.
+Informação: Processando o símbolo 'X2:Crystal:Crystal_SMD_ECS_CSM3X-2Pin_7.6x4.1mm'.
+O arquivo da folha C1 foi atualizado para 'Circuitos-atvd.kicad_sch'.
+Foi atualizado C1 filtros do footprint para 'C_*'.
+Adiciona rede Net-(U1-DECD).
+C1 conectado pino 1 para Net-(U1-DECD).
+Adiciona rede GND.
+C1 conectado pino 2 para GND.
+C2 foi adicionado (footprint 'Capacitor_SMD:C_0201_0603Metric').
+O designador de referência REF** foi trocado para C2.
+O valor C2 foi trocado de C_0201_0603Metric para 2.2uF.
+A associação do símbolo C2 foi atualizada de  para /48f0211d-585c-4109-9fc3-c3323472291a.
+C2 campos foram atualizados.
+O nome da folha C2 foi atualizada para '/'.
+O arquivo da folha C2 foi atualizado para 'Circuitos-atvd.kicad_sch'.
+Foi atualizado C2 filtros do footprint para 'C_*'.
+C2 conectado pino 1 para /DECA.
+C2 conectado pino 2 para GND.
+C3 foi adicionado (footprint 'Capacitor_SMD:C_0402_1005Metric').
+O designador de referência REF** foi trocado para C3.
+O valor C3 foi trocado de C_0402_1005Metric para 10uF.
+A associação do símbolo C3 foi atualizada de  para /8616c298-6c36-42ef-b7cf-429cb97701c4.
+C3 campos foram atualizados.
+O nome da folha C3 foi atualizada para '/'.
+O arquivo da folha C3 foi atualizado para 'Circuitos-atvd.kicad_sch'.
+Foi atualizado C3 filtros do footprint para 'C_*'.
+C3 conectado pino 2 para GND.
+C3 conectado pino 1 para VDD_nRF.
+C4 foi adicionado (footprint 'Capacitor_SMD:C_0201_0603Metric').
+O designador de referência REF** foi trocado para C4.
+O valor C4 foi trocado de C_0201_0603Metric para 100nF.
+A associação do símbolo C4 foi atualizada de  para /c0ef129e-4f22-4b43-a328-d9b2029f5f90.
+C4 campos foram atualizados.
+O nome da folha C4 foi atualizada para '/'.
+O arquivo da folha C4 foi atualizado para 'Circuitos-atvd.kicad_sch'.
+Foi atualizado C4 filtros do footprint para 'C_*'.
+C4 conectado pino 2 para GND.
+C4 conectado pino 1 para VDD_nRF.
+C5 foi adicionado (footprint 'Capacitor_SMD:C_0201_0603Metric').
+O designador de referência REF** foi trocado para C5.
+O valor C5 foi trocado de C_0201_0603Metric para 10nF.
+A associação do símbolo C5 foi atualizada de  para /85e0aa9a-99d8-4a1b-ab21-fe47ee3ce5ea.
+C5 campos foram atualizados.
+O nome da folha C5 foi atualizada para '/'.
+O arquivo da folha C5 foi atualizado para 'Circuitos-atvd.kicad_sch'.
+Foi atualizado C5 filtros do footprint para 'C_*'.
+C5 conectado pino 1 para /DECA.
+C5 conectado pino 2 para GND.
+C6 foi adicionado (footprint 'Capacitor_SMD:C_0201_0603Metric').
+O designador de referência REF** foi trocado para C6.
+O valor C6 foi trocado de C_0201_0603Metric para 1.5pF.
+A associação do símbolo C6 foi atualizada de  para /065b7f20-bbd7-4c3e-805c-b1b234da602a.
+C6 campos foram atualizados.
+O nome da folha C6 foi atualizada para '/'.
+O arquivo da folha C6 foi atualizado para 'Circuitos-atvd.kicad_sch'.
+Foi atualizado C6 filtros do footprint para 'C_*'.
+C6 conectado pino 1 para Net-(C6-Pad1).
+Adiciona rede Net-(U1-VSS_PA).
+C6 conectado pino 2 para Net-(U1-VSS_PA).
+C7 foi adicionado (footprint 'Capacitor_SMD:C_0201_0603Metric').
+O designador de referência REF** foi trocado para C7.
+O valor C7 foi trocado de C_0201_0603Metric para 100nF.
+A associação do símbolo C7 foi atualizada de  para /b03a6ae8-ffa6-4b10-8ceb-972b07cd925d.
+C7 campos foram atualizados.
+O nome da folha C7 foi atualizada para '/'.
+O arquivo da folha C7 foi atualizado para 'Circuitos-atvd.kicad_sch'.
+Foi atualizado C7 filtros do footprint para 'C_*'.
+C7 conectado pino 1 para VDD_nRF.
+C7 conectado pino 2 para GND.
+C8 foi adicionado (footprint 'Capacitor_SMD:C_0201_0603Metric').
+O designador de referência REF** foi trocado para C8.
+O valor C8 foi trocado de C_0201_0603Metric para 100nF.
+A associação do símbolo C8 foi atualizada de  para /812e11e2-82c6-4ad1-b5db-8486e597d8d4.
+C8 campos foram atualizados.
+O nome da folha C8 foi atualizada para '/'.
+O arquivo da folha C8 foi atualizado para 'Circuitos-atvd.kicad_sch'.
+Foi atualizado C8 filtros do footprint para 'C_*'.
+C8 conectado pino 2 para GND.
+C8 conectado pino 1 para VDD_nRF.
+C9 foi adicionado (footprint 'Capacitor_SMD:C_0201_0603Metric').
+O designador de referência REF** foi trocado para C9.
+O valor C9 foi trocado de C_0201_0603Metric para 2.0pF.
+A associação do símbolo C9 foi atualizada de  para /84605f8f-17da-409b-8dc7-270d08402118.
+C9 campos foram atualizados.
+O nome da folha C9 foi atualizada para '/'.
+O arquivo da folha C9 foi atualizado para 'Circuitos-atvd.kicad_sch'.
+Foi atualizado C9 filtros do footprint para 'C_*'.
+C9 conectado pino 2 para GND.
+C9 conectado pino 1 para Net-(C9-Pad1).
+C10 foi adicionado (footprint 'Capacitor_SMD:C_0201_0603Metric').
+O designador de referência REF** foi trocado para C10.
+O valor C10 foi trocado de C_0201_0603Metric para 100nF.
+A associação do símbolo C10 foi atualizada de  para /951ef6e0-7e73-4817-966e-e1db8946b3c0.
+C10 campos foram atualizados.
+O nome da folha C10 foi atualizada para '/'.
+O arquivo da folha C10 foi atualizado para 'Circuitos-atvd.kicad_sch'.
+Foi atualizado C10 filtros do footprint para 'C_*'.
+C10 conectado pino 1 para VDD_nRF.
+C10 conectado pino 2 para GND.
+C11 foi adicionado (footprint 'Capacitor_SMD:C_0201_0603Metric').
+O designador de referência REF** foi trocado para C11.
+O valor C11 foi trocado de C_0201_0603Metric para 0.3pF.
+A associação do símbolo C11 foi atualizada de  para /d11df3e8-b52b-4f70-a8eb-795d1c9f181d.
+C11 campos foram atualizados.
+O nome da folha C11 foi atualizada para '/'.
+O arquivo da folha C11 foi atualizado para 'Circuitos-atvd.kicad_sch'.
+Foi atualizado C11 filtros do footprint para 'C_*'.
+C11 conectado pino 2 para GND.
+C11 conectado pino 1 para /RF.
+C12 foi adicionado (footprint 'Capacitor_SMD:C_0201_0603Metric').
+O designador de referência REF** foi trocado para C12.
+O valor C12 foi trocado de C_0201_0603Metric para 10nF.
+A associação do símbolo C12 foi atualizada de  para /f3e4a79d-16e3-414b-b1c8-a449ef4c8cbb.
+C12 campos foram atualizados.
+O nome da folha C12 foi atualizada para '/'.
+O arquivo da folha C12 foi atualizado para 'Circuitos-atvd.kicad_sch'.
+Foi atualizado C12 filtros do footprint para 'C_*'.
+C12 conectado pino 1 para /DECA.
+C12 conectado pino 2 para GND.
+C13 foi adicionado (footprint 'Capacitor_SMD:C_0201_0603Metric').
+O designador de referência REF** foi trocado para C13.
+O valor C13 foi trocado de C_0201_0603Metric para 3.9pF.
+A associação do símbolo C13 foi atualizada de  para /07733bb6-573b-46e5-99af-ed21b41d021c.
+C13 campos foram atualizados.
+O nome da folha C13 foi atualizada para '/'.
+O arquivo da folha C13 foi atualizado para 'Circuitos-atvd.kicad_sch'.
+Foi atualizado C13 filtros do footprint para 'C_*'.
+Adiciona rede Net-(U1-~{RESET}).
+C13 conectado pino 1 para Net-(U1-~{RESET}).
+C13 conectado pino 2 para GND.
+FB1 foi adicionado (footprint 'Ferrite_THT:LairdTech_28C0236-0JW-10').
+O designador de referência REF** foi trocado para FB1.
+O valor FB1 foi trocado de LairdTech_28C0236-0JW-10 para FerriteBead.
+A associação do símbolo FB1 foi atualizada de  para /6604d5ba-1bab-40cf-833e-5aff5976fdb0.
+FB1 campos foram atualizados.
+O nome da folha FB1 foi atualizada para '/'.
+O arquivo da folha FB1 foi atualizado para 'Circuitos-atvd.kicad_sch'.
+Foi atualizado FB1 filtros do footprint para 'Inductor_* L_* *Ferrite*'.
+FB1 conectado pino 1 para Net-(U1-DECD).
+FB1 conectado pino 2 para /DECA.
+L1 foi adicionado (footprint 'Inductor_SMD:L_0603_1608Metric').
+O designador de referência REF** foi trocado para L1.
+O valor L1 foi trocado de L_0603_1608Metric para 4.7uH.
+A associação do símbolo L1 foi atualizada de  para /2b81c060-2767-41d5-80ed-f2f4d8bf815d.
+L1 campos foram atualizados.
+O nome da folha L1 foi atualizada para '/'.
+O arquivo da folha L1 foi atualizado para 'Circuitos-atvd.kicad_sch'.
+Foi atualizado L1 filtros do footprint para 'Choke_* *Coil* Inductor_* L_*'.
+L1 conectado pino 1 para Net-(U1-DECD).
+Adiciona rede Net-(U1-DCC).
+L1 conectado pino 2 para Net-(U1-DCC).
+C1 foi adicionado (footprint 'Capacitor_SMD:C_0201_0603Metric').
+L2 foi adicionado (footprint 'Inductor_SMD:L_0201_0603Metric').
+O designador de referência REF** foi trocado para L2.
+O valor L2 foi trocado de L_0201_0603Metric para 2.7nH.
+A associação do símbolo L2 foi atualizada de  para /2ab9365a-67c3-4138-9793-2e821d857944.
+L2 campos foram atualizados.
+O nome da folha L2 foi atualizada para '/'.
+O arquivo da folha L2 foi atualizado para 'Circuitos-atvd.kicad_sch'.
+Foi atualizado L2 filtros do footprint para 'Choke_* *Coil* Inductor_* L_*'.
+Adiciona rede Net-(U1-ANT).
+L2 conectado pino 1 para Net-(U1-ANT).
+L2 conectado pino 2 para Net-(C6-Pad1).
+O designador de referência REF** foi trocado para C1.
+L3 foi adicionado (footprint 'Inductor_SMD:L_0201_0603Metric').
+O designador de referência REF** foi trocado para L3.
+O valor L3 foi trocado de L_0201_0603Metric para 3.5nH.
+A associação do símbolo L3 foi atualizada de  para /cf0f7768-8b36-4709-b5dc-3f87c9169ee2.
+L3 campos foram atualizados.
+O nome da folha L3 foi atualizada para '/'.
+O arquivo da folha L3 foi atualizado para 'Circuitos-atvd.kicad_sch'.
+Foi atualizado L3 filtros do footprint para 'Choke_* *Coil* Inductor_* L_*'.
+L3 conectado pino 1 para Net-(C6-Pad1).
+L3 conectado pino 2 para Net-(C9-Pad1).
+O valor C1 foi trocado de C_0201_0603Metric para 2.2uF.
+L4 foi adicionado (footprint 'Inductor_SMD:L_0201_0603Metric').
+O designador de referência REF** foi trocado para L4.
+O valor L4 foi trocado de L_0201_0603Metric para 0.3pF.
+A associação do símbolo L4 foi atualizada de  para /813ca614-09e3-43fa-afa4-bc73a45b2470.
+L4 campos foram atualizados.
+O nome da folha L4 foi atualizada para '/'.
+O arquivo da folha L4 foi atualizado para 'Circuitos-atvd.kicad_sch'.
+Foi atualizado L4 filtros do footprint para 'Choke_* *Coil* Inductor_* L_*'.
+L4 conectado pino 1 para Net-(C9-Pad1).
+L4 conectado pino 2 para /RF.
+A associação do símbolo C1 foi atualizada de  para /bc769050-4c6a-4eff-ab53-d7ee244d5504.
+R1 foi adicionado (footprint 'Resistor_SMD:R_0201_0603Metric').
+O designador de referência REF** foi trocado para R1.
+O valor R1 foi trocado de R_0201_0603Metric para 1k.
+A associação do símbolo R1 foi atualizada de  para /1330575c-0c08-470b-8c5e-ed90d44bea49.
+R1 campos foram atualizados.
+O nome da folha R1 foi atualizada para '/'.
+O arquivo da folha R1 foi atualizado para 'Circuitos-atvd.kicad_sch'.
+Foi atualizado R1 filtros do footprint para 'R_*'.
+R1 conectado pino 1 para Net-(U1-~{RESET}).
+R1 conectado pino 2 para /NRESET.
+C1 campos foram atualizados.
+U1 foi adicionado (footprint 'Package_DFN_QFN:QFN-48-1EP_6x6mm_P0.4mm_EP4.2x4.2mm_ThermalVias').
+O designador de referência REF** foi trocado para U1.
+O valor U1 foi trocado de QFN-48-1EP_6x6mm_P0.4mm_EP4.2x4.2mm_ThermalVias para ~.
+A associação do símbolo U1 foi atualizada de  para /f6cc1cf1-8f06-46e0-b44d-daffe8733cc8.
+O nome da folha U1 foi atualizada para '/'.
+O arquivo da folha U1 foi atualizado para 'Circuitos-atvd.kicad_sch'.
+Adiciona rede unconnected-(U1-Pad23).
+U1 conectado pino 23 para unconnected-(U1-Pad23).
+U1 conectado pino 22 para VDD_nRF.
+U1 conectado pino 45 para Net-(U1-DECD).
+Adiciona rede unconnected-(U1-XC2-Pad35).
+U1 conectado pino 35 para unconnected-(U1-XC2-Pad35).
+U1 conectado pino 33 para /DECA.
+U1 conectado pino 49 para GND.
+U1 conectado pino 49 para GND.
+Adiciona rede Net-(U1-XC1).
+U1 conectado pino 34 para Net-(U1-XC1).
+U1 conectado pino 49 para GND.
+Adiciona rede unconnected-(U1-Pad9).
+U1 conectado pino 9 para unconnected-(U1-Pad9).
+Adiciona rede unconnected-(U1-Pad6).
+U1 conectado pino 6 para unconnected-(U1-Pad6).
+U1 conectado pino 49 para GND.
+U1 conectado pino 49 para GND.
+Adiciona rede unconnected-(U1-Pad38).
+U1 conectado pino 38 para unconnected-(U1-Pad38).
+Adiciona rede unconnected-(U1-Pad39).
+U1 conectado pino 39 para unconnected-(U1-Pad39).
+U1 conectado pino 49 para GND.
+Adiciona rede unconnected-(U1-Pad12).
+U1 conectado pino 12 para unconnected-(U1-Pad12).
+U1 conectado pino 26 para /SWDCLK.
+U1 conectado pino 46 para Net-(U1-DCC).
+U1 conectado pino 10 para VDD_nRF.
+U1 conectado pino 44 para GND.
+U1 conectado pino 49 para GND.
+Adiciona rede unconnected-(U1-Pad11).
+U1 conectado pino 11 para unconnected-(U1-Pad11).
+Adiciona rede unconnected-(U1-Pad18).
+U1 conectado pino 18 para unconnected-(U1-Pad18).
+Adiciona rede unconnected-(U1-Pad19).
+U1 conectado pino 19 para unconnected-(U1-Pad19).
+U1 conectado pino 49 para GND.
+U1 conectado pino 47 para VDD_nRF.
+Adiciona rede unconnected-(U1-Pad17).
+U1 conectado pino 17 para unconnected-(U1-Pad17).
+Adiciona rede unconnected-(U1-Pad7).
+U1 conectado pino 7 para unconnected-(U1-Pad7).
+U1 conectado pino 30 para Net-(U1-~{RESET}).
+U1 conectado pino 32 para Net-(U1-VSS_PA).
+Adiciona rede unconnected-(U1-Pad15).
+U1 conectado pino 15 para unconnected-(U1-Pad15).
+U1 conectado pino 49 para GND.
+U1 conectado pino 36 para VDD_nRF.
+U1 conectado pino 43 para /DECA.
+U1 conectado pino 49 para GND.
+Adiciona rede unconnected-(U1-Pad16).
+U1 conectado pino 16 para unconnected-(U1-Pad16).
+U1 conectado pino 49 para GND.
+Adiciona rede unconnected-(U1-Pad13).
+U1 conectado pino 13 para unconnected-(U1-Pad13).
+Adiciona rede unconnected-(U1-Pad21).
+U1 conectado pino 21 para unconnected-(U1-Pad21).
+Adiciona rede unconnected-(U1-Pad37).
+U1 conectado pino 37 para unconnected-(U1-Pad37).
+U1 conectado pino 49 para GND.
+Adiciona rede unconnected-(U1-Pad4).
+U1 conectado pino 4 para unconnected-(U1-Pad4).
+Adiciona rede unconnected-(U1-Pad1).
+U1 conectado pino 1 para unconnected-(U1-Pad1).
+Adiciona rede unconnected-(U1-Pad2).
+U1 conectado pino 2 para unconnected-(U1-Pad2).
+Adiciona rede unconnected-(U1-Pad40).
+U1 conectado pino 40 para unconnected-(U1-Pad40).
+U1 conectado pino 49 para GND.
+U1 conectado pino 49 para GND.
+Adiciona rede unconnected-(U1-Pad29).
+U1 conectado pino 29 para unconnected-(U1-Pad29).
+Adiciona rede unconnected-(U1-Pad20).
+U1 conectado pino 20 para unconnected-(U1-Pad20).
+Adiciona rede unconnected-(U1-Pad41).
+U1 conectado pino 41 para unconnected-(U1-Pad41).
+Adiciona rede unconnected-(U1-Pad28).
+U1 conectado pino 28 para unconnected-(U1-Pad28).
+U1 conectado pino 49 para GND.
+U1 conectado pino 49 para GND.
+Adiciona rede unconnected-(U1-Pad27).
+U1 conectado pino 27 para unconnected-(U1-Pad27).
+Adiciona rede unconnected-(U1-Pad5).
+U1 conectado pino 5 para unconnected-(U1-Pad5).
+Adiciona rede unconnected-(U1-Pad3).
+U1 conectado pino 3 para unconnected-(U1-Pad3).
+Adiciona rede unconnected-(U1-Pad8).
+U1 conectado pino 8 para unconnected-(U1-Pad8).
+U1 conectado pino 49 para GND.
+U1 conectado pino 25 para /SWDIO.
+U1 conectado pino 49 para GND.
+Adiciona rede unconnected-(U1-Pad24).
+U1 conectado pino 24 para unconnected-(U1-Pad24).
+U1 conectado pino 31 para Net-(U1-ANT).
+Adiciona rede unconnected-(U1-Pad42).
+U1 conectado pino 42 para unconnected-(U1-Pad42).
+Adiciona rede unconnected-(U1-Pad14).
+U1 conectado pino 14 para unconnected-(U1-Pad14).
+U1 conectado pino 48 para VDD_nRF.
+O nome da folha C1 foi atualizada para '/'.
+X2 foi adicionado (footprint 'Crystal:Crystal_SMD_ECS_CSM3X-2Pin_7.6x4.1mm').
+O designador de referência REF** foi trocado para X2.
+O valor X2 foi trocado de Crystal_SMD_ECS_CSM3X-2Pin_7.6x4.1mm para 32MHz.
+A associação do símbolo X2 foi atualizada de  para /0b4dd813-f0e1-437d-9926-d520a7868fe3.
+O nome da folha X2 foi atualizada para '/'.
+O arquivo da folha X2 foi atualizado para 'Circuitos-atvd.kicad_sch'.
+X2 conectado pino 1 para Net-(U1-XC1).
+X2 conectado pino 2 para unconnected-(X2-XC2-Pad2).
+Rede sem uso Earth foi removida.
+Rede sem uso Net-(U2-ANT) foi removida.
+Rede sem uso Net-(U2-DCC) foi removida.
+Rede sem uso Net-(U2-DECD) foi removida.
+Rede sem uso Net-(U2-RESET) foi removida.
+Rede sem uso Net-(U2-VSS_PA) foi removida.
+Rede sem uso Net-(U2-XC1) foi removida.
 
 
-Informação: Total de avisos: 42, erros: 15.
+Informação: Total de avisos: 0, erros: 0.
